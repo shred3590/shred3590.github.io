@@ -5,9 +5,41 @@
     <description>A portfolio site with work examples and collection of resources.</description>
     <link>#/</link>
     <atom:link href="#/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 13 Jun 2015 10:48:59 -0700</pubDate>
-    <lastBuildDate>Sat, 13 Jun 2015 10:48:59 -0700</lastBuildDate>
+    <pubDate>Sat, 13 Jun 2015 17:18:55 -0700</pubDate>
+    <lastBuildDate>Sat, 13 Jun 2015 17:18:55 -0700</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Pack 198</title>
+        <description>&lt;p&gt;I developed a web site for Cub Scout Pack 198 in Portland, Oregon.  It was built using PHP and Sass with Compass.  I utilized modern CSS such as flex boxes and gradients to create a modern, mobile first site.&lt;/p&gt;
+
+&lt;p&gt;I plan to integrate user registration for parents of scouts, photo and video upload by registered users, and a roster that is built from the registration information.&lt;/p&gt;
+
+&lt;p&gt;The site be placed on the pack’s domain once we have access to it.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://vetsrights.com&quot;&gt;Cub Scout Pack 198&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 13 Jun 2015 00:00:00 -0700</pubDate>
+        <link>#/Pack-198</link>
+        <guid isPermaLink="true">#/Pack-198</guid>
+        
+        
+        <category>sites</category>
+        
+      </item>
+    
+      <item>
+        <title>Bible Word Study</title>
+        <description>&lt;p&gt;&lt;a href=&quot;http://biblewordstudy.net&quot;&gt;Bible Word Study&lt;/a&gt; is a site I developed using the Joomla CMS and the Helix 3 framework.  It is a full featured site with a forum, blog, calendar, and articles.  The forum and calendars have a mix of private and public sections so private information can be shared with specific groups as well as having public interaction.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 13 Jun 2015 00:00:00 -0700</pubDate>
+        <link>#/Bible-Word-Study</link>
+        <guid isPermaLink="true">#/Bible-Word-Study</guid>
+        
+        
+        <category>sites</category>
+        
+      </item>
     
       <item>
         <title>First Post</title>
