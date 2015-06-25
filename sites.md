@@ -15,7 +15,7 @@ Pack 198
 
 [Cub Scout Pack 198](http://vetsrights.com) is where I am currently putting most of my effort.  It is a live site I am building for my son's pack.  We do not currently have access to the domain, so it is live on a domain I have.  I will migrate it to the proper domain when I have access.
 
-This site is completely hand coded.  I use PHP extensively for site functionality.  The CSS is built using Sass and Compass.  
+This site is completely hand coded evolving from a simple PHP e-commerce site built during courses at [Treehouse](http://teamtreehouse.com).  I use PHP extensively for site functionality.  The CSS is built using Sass and Compass.  
 
 My next step for this site is to refactor it to the Slim micro framework and Twig for templating.  This will be a major project that I intend to use Git for progress tracking.
 
@@ -26,7 +26,7 @@ This is the primary project site that I use to explore new techniques.  It was s
 Bible Word Study
 ----------------
 
-[Bible Word Study](http://biblewordstudy.net) is a site I built with the Joomla CMS before I started any classes with [Treehouse](http://teamtreehouse.com).  It is very functional with Joomla plug-ins, but the styling is not what I would prefer.  
+[Bible Word Study](http://biblewordstudy.net) is a site I built with the Joomla CMS before I started any classes with [Treehouse](http://teamtreehouse.com).  It is very functional with Joomla plug-ins, but the styling is not what I would prefer.  Very little of this was hand coded.  It is focused on functionality instead.
 
 Ralph Waldo Emerson
 -------------------
@@ -38,4 +38,4 @@ The one issue that I have found is that if you start with /index.php, Slim does 
 Other Projects
 --------------
 
-I previously built two sites for my prior business: sumnerlawpc.com and centerforvetrights.com.  Both sites were built with Joomla but are no longer live.  Both sites had good functionality and were ultimately why I decided to leave the practice of law and start building web sites.  It was more fun to build and tweak the sites than practice law.
+I previously built two sites for my prior business: sumnerlawpc.com and centerforvetrights.com.  Both sites were built with Joomla but are no longer live.  They had good functionality and were ultimately why I decided to leave the practice of law and start building web sites.  I can bring either live for a short time upon request.  It was more fun to build and tweak the sites than practice law.
