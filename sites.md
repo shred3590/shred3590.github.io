@@ -1,10 +1,7 @@
 ---
-title: My Sites
+title: Portfolio
 permalink: /sites/
 ---
-
-Portfolio
-=========
 
 I am responsible for several different sites.  Here are links and a brief description of the site and my thought processes behind it.
 
